@@ -1,5 +1,5 @@
 # blogs
-Links to blogs I have written
+Links to blogs I have written at various places
 
 <ul type="square">
 	<li> Passing by Conventional Wisdom (Lot 10 Sports): <br>
